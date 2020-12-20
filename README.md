@@ -1,2 +1,2 @@
 # ElfPatch
-Patches the Elfes outfit ;D
+This mod improves the elf's outfit. ;D

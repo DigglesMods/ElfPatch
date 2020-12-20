@@ -1,0 +1,18 @@
+{
+	"version" : "1.0",
+	"author" : "cech12",
+	
+	"name" :  {
+		"en" : "Elf Patch",
+		"de" : "Fee Patch"
+	},
+	"description" : {
+		"en" : "It improves the elf's outfit ;D",
+		"de" : "Verbessert das Outfit der Fee ;D."
+	},
+	
+	"links" : {
+		"download" : "https://github.com/DigglesMods/ElfPatch/releases",
+		"wiki" : "https://github.com/DigglesMods/ElfPatch/wiki"
+	}
+}
